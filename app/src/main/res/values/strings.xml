@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">eslami</string>
+    <string name="islamic">islamic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="radio">radio</string>
+    <string name="quran">Quran</string>
+    <string name="sebha">sebha</string>
+    <string name="ahadeth">ahadeth</string>
+    <string name="title">title</string>
+    <string name="shehab">shehab</string>
+    <string name="try_again">try again</string>
+    <string name="content">content</string>
+    <string name="counter">counter</string>
+    <string name="one">(</string>
+    <string name="two">)</string>
+    <array name="azkarList">
+        <item>سبحان الله</item>
+        <item>الحمدلله</item>
+        <item>الله اكبر</item>
+    </array>
+</resources>
